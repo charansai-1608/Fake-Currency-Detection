@@ -5,6 +5,9 @@ Classification module classify the note based on its allignment. UV module uses 
 Each module contains train and test files which are to be executed first. The test model is then converted into tflite version due to available computational resources.
 A final module is considered where all the tflite versions of three modules is integrated and checks whether a currency note is counterfiet or not.
 Datasets for the three modules can be downloaded from below drive links:
+
 classification model: https://drive.google.com/drive/folders/18av7hpDA7bId2x4y5qVJ1kSng763_oGq?usp=share_link
+
 uv model: https://drive.google.com/drive/folders/13AG4D6jbDeC2IR0zIYL86jC6_ZDFFHjD?usp=share_link
+
 watermark model: https://drive.google.com/drive/folders/1YG_NHDcbvNa9QRmbfbVVStFHQkem6q5d?usp=share_link
